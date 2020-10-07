@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Fun NLP project to generate tamil stories and also a cool AI chat bot which can talk in multiple languages 😄  
 - 🌱 I’m currently learning in http://neuralnetworksanddeeplearning.com/ and https://www.deeplearningbook.org/. Both books are awesome. Thanks to the authors.
-- 👯 I’m preparing myself for Keras and Tensorflow collaboration.
-- 📫 How to reach me: Mail me @ msg2dineshkumar@gmail.com
 - Funny Meme - https://raw.githubusercontent.com/dineshkumarsarangapani/dineshkumarsarangapani/main/2D5ryhc.png
 
 
