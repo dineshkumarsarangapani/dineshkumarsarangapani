@@ -1,6 +1,10 @@
 ### Hi there 👋
 - Funny Meme - https://raw.githubusercontent.com/dineshkumarsarangapani/dineshkumarsarangapani/main/2D5ryhc.png
 
+![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=valid22&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true]) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dineshkumarinchennai&theme=dark)](https://git.io/streak-stats)
+
 Cancel changes
 <!--
 **dineshkumarsarangapani/dineshkumarsarangapani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
