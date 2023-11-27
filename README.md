@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <ul>
-<li> Connect with me on [My LinkedIn](https://www.linkedin.com/in/dinesh-kumar-sarangapani/) </li>
+<li> Connect with me on <a href="https://www.linkedin.com/in/dinesh-kumar-sarangapani/">My LinkedIn</a> </li>
 <li> My IITM [profile](https://app.onlinedegree.iitm.ac.in/student/21F1000560#) </li>
 <li> [My Site](http://dineshkumars.in/)</li>
 </ul>
