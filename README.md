@@ -3,7 +3,7 @@
 <ul>
 <li> Connect with me on <a href="https://www.linkedin.com/in/dinesh-kumar-sarangapani/">My LinkedIn</a> </li>
 <li> My IITM <a href="https://app.onlinedegree.iitm.ac.in/student/21F1000560#">Profile</a> </li>
-<li> <a href="http://dineshkumars.in/">My Site</a></li>
+<li> <a href="http://dineshkumars.dev/">My Site</a></li>
 </ul>
 
 ## 🚀 My Language with Computers :computer::
