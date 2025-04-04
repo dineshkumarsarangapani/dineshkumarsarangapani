@@ -102,7 +102,7 @@
 
 ![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dineshkumarsarangapani&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true]) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dineshkumarsarangapani&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dineshkumarsarangapani)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumarsarangapani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
